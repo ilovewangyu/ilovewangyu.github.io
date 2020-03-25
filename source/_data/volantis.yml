@@ -91,12 +91,6 @@ feed:
   path: rss.xml
   limit: 20
 
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
-
 sitemap:
   path: sitemap.xml
 
@@ -628,3 +622,7 @@ search:
     queryKey:
   baidu:
     apiId:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
