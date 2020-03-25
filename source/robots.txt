@@ -6,4 +6,4 @@ Allow: /tags/
 Allow: /categories/
 Allow: /posts/
 
-Sitemap: https://yuwushuang.me/sitemap.xml
+Sitemap: http://yuwushuang.me/sitemap.xml
