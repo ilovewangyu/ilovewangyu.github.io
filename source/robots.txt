@@ -6,4 +6,4 @@ Allow: /tags/
 Allow: /categories/
 Allow: /posts/
 
-Sitemap: http://yuwushuang.me/sitemap.xml
+Sitemap: http://jacklee.yuwushuang.me/sitemap.xml
