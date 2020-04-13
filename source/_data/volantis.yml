@@ -191,8 +191,8 @@ cover:
     archive: true
     others: false # can be written in front-matter 'cover: true'
   logo: # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
-  title: Volantis
-  subtitle: 'A Wonderful Theme for Hexo'
+  title: 瑜无双
+  subtitle: 'Be '
   search: # search bar placeholder
   features:
     - name: 文档
