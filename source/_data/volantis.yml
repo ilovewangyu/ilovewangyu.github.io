@@ -192,7 +192,7 @@ cover:
     others: false # can be written in front-matter 'cover: true'
   logo: # https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/logo/256/google_logo.png
   title: 瑜无双
-  subtitle: 'Be '
+  subtitle: 'Never be the same'
   search: # search bar placeholder
   features:
     - name: 文档
