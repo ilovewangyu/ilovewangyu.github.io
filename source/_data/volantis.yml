@@ -201,7 +201,7 @@ cover:
     - name: 博文
       icon: fas fa-rss
       url: https://volantis.js.org/archives/
-    - name: 示例
+    - name: 例子
       icon: fas fa-play-circle
       url: https://volantis.js.org/examples/
     - name: 源码
