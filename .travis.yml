@@ -40,7 +40,7 @@ before_install:
   - sed -i "s/REPO_TOKEN/${REPO_TOKEN}/" source/_data/volantis.yml
   # volantis主题下载
   - git clone https://github.com/xaoxuu/hexo-theme-volantis themes/volantis
-  - cd themes/volantis && git checkout v2.6.1 && cd -
+  - cd themes/volantis && git checkout 2.6.1 && cd -
   - yes | cp -rf source/_data/volantis.yml themes/volantis/_config.yml
 install:
   # 不用yarn的话这里改成 npm i 即可
