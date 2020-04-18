@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hello world111</title>
+    <url>/posts/hello_world_url.html</url>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>你好世界123</p>
+<a id="more"></a>
+
+<p>全文内容</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+</search>
